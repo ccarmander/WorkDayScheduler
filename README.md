@@ -5,9 +5,9 @@ hours and to be able to save to your local storage.
 
 Upon opening the page you'll be right at the scheduler and depending on the hour it will indicate the color of the boxes. 
 
-Brown Boxes = Past
-Orange Boxes = Present
-Gray Boxes = Future
+Brown Boxes = Past<br>
+Orange Boxes = Present<br>
+Gray Boxes = Future<br>
 
-https://i.imgur.com/iPN2dvh.png
+
 ![Scheduler](https://i.imgur.com/iPN2dvh.png)
