@@ -36,7 +36,7 @@ function hourUpdater() {
 
     $(".time-block").each(function () {
 
-        // take the value frome each id and setting to the variable block. HINT parseInt
+        // take the value frome each id and setting to the variable block.
         var block = parseInt($(this).attr("id").split("hour")[1]);
         console.log(block, currentTime)
         console.log(dt);
